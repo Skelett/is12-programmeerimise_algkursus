@@ -39,7 +39,7 @@ class Place:
 
     def coridor(self):
 		print " "
-		print "Hallway is dark and both left and right side has 3 doors \
+		print "Coridor is dark and both left and right side has 3 doors \
 		Straight ahead is also a door. All doors look the same, a little damaged \
 		but the door up ahead seems to be the most damaged. As you go closer \
 		you hear somesort of sound"
